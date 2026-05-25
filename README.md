@@ -1,0 +1,2 @@
+# SimpleStudentProjectApp
+Student info
